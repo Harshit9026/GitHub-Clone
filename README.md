@@ -27,7 +27,7 @@ GitHub Clone is a full-stack web application built using the MERN stack (MongoDB
 
 ### Backend Setup
 ## Clone the repository:
-  git clone https://github.com/Kirtikaa25/MERN-Github
+  git clone https://github.com/Harshit9026/GitHub-Clone.git
    
    cd github-clone
    
